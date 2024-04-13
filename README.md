@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Collins! <br/><a  <a href="https://www.linkedin.com/in/collins-manning-32256a176/">Cybersecurity Professional</a>
 
-<!--
-**coll0007/coll0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 CyberSecurity Projects:</h2> 
+Cyber Threats, Attacks And Vulnerabilities 
 
-Here are some ideas to get you started:
+Computer Networking 
+<h2> Certifications </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Google CyberSecurity Professional certificate
+
+
+Comptia Security+ (Loading...)
+
+<h2>📺 CyberSecurity YouTube Project Videos</h2>
+WireShark Exercise
+https://www.youtube.com/watch?v=ioCXmc-kwgE
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: https://www.linkedin.com/in/collins-manning-32256a176/
