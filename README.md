@@ -17,6 +17,9 @@ https://www.youtube.com/watch?v=ioCXmc-kwgE
 
 Computer Network Project
 https://www.youtube.com/watch?v=vi-_uEIEMl0
+
+Performing Vulnerability Scan
+https://youtu.be/AM5mqeGf4vg
 <h2> 🤳 Connect with me:</h2>
 
 [linkedin]: https://www.linkedin.com/in/collins-manning-32256a176/
