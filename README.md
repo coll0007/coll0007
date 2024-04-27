@@ -21,6 +21,9 @@ https://www.youtube.com/watch?v=vi-_uEIEMl0
 
 Performing Vulnerability Scan
 https://youtu.be/AM5mqeGf4vg
+
+Setting up Vulnerability Management
+https://rumble.com/v4rqsj0-week-5-project-team-2.html
 <h2> 🤳 Connect with me:</h2>
 
 [linkedin]: https://www.linkedin.com/in/collins-manning-32256a176/
