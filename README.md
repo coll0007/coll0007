@@ -13,6 +13,10 @@ Google CyberSecurity Professional certificate
 Comptia Security+ (Loading...)
 
 <h2>📺 CyberSecurity YouTube Project Videos</h2>
+
+Setting Up Kali on VirtualBox
+https://youtu.be/Gg2TbSWzysk?si=cL83RxELlz0PWx1t
+
 WireShark Exercise
 https://www.youtube.com/watch?v=ioCXmc-kwgE
 
