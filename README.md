@@ -12,6 +12,8 @@ Google CyberSecurity Professional certificate
 
 Comptia Security+ (Loading...)
 
+GRC Professional
+
 <h2>📺 CyberSecurity YouTube Project Videos</h2>
 
 Setting Up Kali on VirtualBox
